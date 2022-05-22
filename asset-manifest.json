@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DenverStore/static/css/main.c4349d88.css",
+    "main.js": "/DenverStore/static/js/main.b6d06ebb.js",
+    "index.html": "/DenverStore/index.html",
+    "main.c4349d88.css.map": "/DenverStore/static/css/main.c4349d88.css.map",
+    "main.b6d06ebb.js.map": "/DenverStore/static/js/main.b6d06ebb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4349d88.css",
+    "static/js/main.b6d06ebb.js"
+  ]
+}
